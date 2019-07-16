@@ -1,0 +1,27 @@
+body{
+   background-color: MistyRose;
+   border:dotted 5px;
+   padding: 10px;
+   font-familiy: Verdana;}
+h3{
+   color:#F5R4ED;}
+h4{
+   color:#BC0164;}
+h5{
+   color:#BC0164;}
+h1{
+   color:3C01FE;}
+
+
+ul{
+   color: #461979;}
+
+.caption{
+   font-size: 3px;
+   font-variant:small-caps
+caps;}
+
+img{
+  border-radius:20px;
+  border: solid 5px #7C3C60;
+  padding: 8px;}
